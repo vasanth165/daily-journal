@@ -45,16 +45,16 @@ A simple daily journal website built using Node.js, Express, and EJS. This websi
 ![Source Code](./screenshots/image_1.png)
 
 ### 2. Home Page
-![Home Page](./screenshots/image_1.png)
+![Home Page](./screenshots/image_2.png)
 
 ### 3. Composing Page Path
-![Composing Page Path](./screenshots/image_1.png)
+![Composing Page Path](./screenshots/image_3.png)
 
 ### 4. Composing Page
-![Composing Page](./screenshots/image_1.png)
+![Composing Page](./screenshots/image_4.png)
 
 ### 5. Home Page with Journal Entry
-![Home Page with Journal Entry](./screenshots/image_1.png)
+![Home Page with Journal Entry](./screenshots/image_5.png)
 
 ### 6. Full Journal Entry
-![Full Journal Entry](./screenshots/image_1.png)
+![Full Journal Entry](./screenshots/image_6.png)
